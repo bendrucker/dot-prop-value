@@ -1,7 +1,7 @@
 {
   "name": "dot-prop-value",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Use dot-prop getters and setters on non-object values",
   "license": "MIT",
   "repository": "bendrucker/dot-prop-value",
