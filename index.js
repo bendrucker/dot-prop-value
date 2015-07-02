@@ -8,3 +8,10 @@ exports.get = function get (object, path) {
   if (!isObjectLike(object)) return undefined
   return dot.get(object, path)
 }
+
+exports.set = function set (object, path, value) {
+  if (!path) return value
+  if (!isObjectLike(object)) object = {}
+  dot.set(object, path, value)
+  return object
+}
