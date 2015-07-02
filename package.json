@@ -1,0 +1,38 @@
+{
+  "name": "dot-prop-value",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Use dot-prop getters and setters on non-object values",
+  "license": "MIT",
+  "repository": "bendrucker/dot-prop-value",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "dot",
+    "prop",
+    "path",
+    "value"
+  ],
+  "dependencies": {
+    "dot-prop": "~2.2.0",
+    "is-object": "~1.0.1",
+    "is-object-like": "~1.0.1"
+  },
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js",
+    "readme.md"
+  ]
+}
