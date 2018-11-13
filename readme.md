@@ -1,4 +1,4 @@
-# dot-prop-value [![Build Status](https://travis-ci.org/bendrucker/dot-prop-value.svg?branch=master)](https://travis-ci.org/bendrucker/dot-prop-value)
+# dot-prop-value [![Build Status](https://travis-ci.org/bendrucker/dot-prop-value.svg?branch=master)](https://travis-ci.org/bendrucker/dot-prop-value) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/dot-prop-value.svg)](https://greenkeeper.io/)
 
 > Use [dot-prop](https://github.com/sindresorhus/dot-prop) getters and setters on non-object values
 
