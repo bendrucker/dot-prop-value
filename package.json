@@ -23,7 +23,7 @@
     "value"
   ],
   "dependencies": {
-    "dot-prop": "~2.2.0",
+    "dot-prop": "~5.2.0",
     "is-object": "~1.0.1",
     "is-object-like": "~1.0.1"
   },
